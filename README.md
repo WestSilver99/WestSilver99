@@ -10,3 +10,5 @@
 <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=React Router&logoColor=white">
 <img src="https://img.shields.io/badge/Styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
+- [GitHub](https://github.com/WestSilver99/Daily_Study/tree/main/GitHub)
+- [Shell](https://github.com/WestSilver99/Daily_Study/tree/main/Shell)

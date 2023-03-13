@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WestSilver99&show_icons=true&theme=tokyonight)
 
-### 스택
+### Stacks 🔨
 
 <hr>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -17,7 +17,8 @@
 
 <hr>
 
-### 공부
+###  ✏️
 
 - [GitHub](https://github.com/WestSilver99/Daily_Study/tree/main/GitHub)
 - [Shell](https://github.com/WestSilver99/Daily_Study/tree/main/Shell)
+- [운영체제](https://github.com/WestSilver99/Daily_Study/tree/main/OS)
